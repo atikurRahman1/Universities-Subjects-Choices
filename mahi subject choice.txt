@@ -1,0 +1,24 @@
+Biochemistry
+Pharmacy
+CSE
+Software Engineering
+ICT
+Genetic Engineering
+Biotechnology
+Microbiology
+Statistics
+Mathematics
+Physics
+
+Pharmacy
+Biochemistry
+CSE
+Software Engineering
+ICT
+Statistics
+Genetic Engineering
+Biotechnology
+Microbiology
+Mathematics
+Physics
+Chemistry
